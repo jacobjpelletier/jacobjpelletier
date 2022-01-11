@@ -66,7 +66,7 @@ ___________
 🌳 I enjoy **nature**. This generally manifests as growing a lot of indoor plants and running outside. 
 ____________
 
-### Abilities and Powers** 
+### Abilities and Powers 
 
 I am pretty fresh from University, so my skill set is pretty general - though I am working to become more specialized.   
 
