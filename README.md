@@ -1,7 +1,8 @@
-## 👋 Welcome to my github profile
+## 👋 Thanks for visiting my github profile.
 
-### About Me:
+###🪴 About Me:
 ____________
+🎓 I am a nurse who graduated with a Bachelor's degree in 2021 from [Central Connecticut State University](https://www.ccsu.edu/cs/). 
 
 <!--
 **jacobjpelletier/jacobjpelletier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
