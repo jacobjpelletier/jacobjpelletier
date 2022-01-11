@@ -41,7 +41,7 @@
 ![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ___________
 
-### 🪴 About Me
+### 🪴 About Me 🔨 🩺  💻
 
 **Origin Story**.   
 
