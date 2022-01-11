@@ -2,9 +2,13 @@
 
 ###🪴 About Me:
 ____________
-> “I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.”
+> “I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one.”
+- Henry David Thoreau, Walden. 
 
-🎓 I became a nurse in 2013 because I hoped to 
+![saitama](https://user-images.githubusercontent.com/40835093/148969858-e70041f9-6c1b-4c18-b150-2509c538896f.jpg)
+
+🎓 **Origin Story** I was raised in a family of carpenters. I got a Bachelor's in Nursing from [UConn](https://uconn.edu/) in 2013 because I hoped to make an earning helping people. After taking MOOCs and building projects for fun 
+
 graduated with a Bachelor's degree in 2021 from [Central Connecticut State University](https://www.ccsu.edu/cs/). 
 
 <!--
