@@ -99,11 +99,20 @@ ____________
 8. Docker
 ____________
 
-### 💪 Where I like to train (my coding muscles)
+### 💪 Where I like to train (my coding muscles) 
+
+**MOOCs**   
+
 1. Udacity
 2. LeetCode
 3. CodeCademy
-4. Educative
+4. Educative 
+
+**Some of my favorite creators on git**
+
+1. https://github.com/fireship-io
+2. https://github.com/benawad
+3. https://github.com/udacity 
 ____________
 
 ### 🏅 Acheivements
