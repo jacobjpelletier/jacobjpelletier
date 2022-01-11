@@ -2,7 +2,10 @@
 
 ###🪴 About Me:
 ____________
-🎓 I am a nurse who graduated with a Bachelor's degree in 2021 from [Central Connecticut State University](https://www.ccsu.edu/cs/). 
+> “I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.”
+
+🎓 I became a nurse in 2013 because I hoped to 
+graduated with a Bachelor's degree in 2021 from [Central Connecticut State University](https://www.ccsu.edu/cs/). 
 
 <!--
 **jacobjpelletier/jacobjpelletier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
