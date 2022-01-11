@@ -14,7 +14,7 @@ I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UCon
 
 <img align="right" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
 
-**Hobbies (in no particular order)**   
+**Hobbies (in no particular order)**<br>   
 
 🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. My favorite genre of food is Mexican and Japanese.   
 
