@@ -16,7 +16,7 @@ I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UCon
 
 **Hobbies (in no particular order)**   
 
-🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. I am much better at cooking fish 🐟 than steak 🥩. My favorite genre of food is Mexican and Japanese.   
+🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. My favorite genre of food is Mexican and Japanese.   
 
 🏛 I enjoy reading books on **philosophy**. I enjoy books on transcendentalism, stoicism, meta-modernism, and some anylitical philosophy most.    
 
