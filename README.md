@@ -21,11 +21,7 @@
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+
 ___________
 
 ### 🪴 About Me
@@ -83,11 +79,10 @@ ____________
 ____________
 
 ### 💪 Where I like to train (my coding muscles)
-[!image](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
-[!image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-[!image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
-[!image](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-[!image](https://img.shields.io/static/v1?label=<LABEL>&message=educative&color=grey)
+1. Udacity
+2. LeetCode
+3. CodeCademy
+4. Educative
 ____________
 [!image]()
 
