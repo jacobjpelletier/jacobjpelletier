@@ -3,7 +3,7 @@
 > “I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one.” - Henry David Thoreau, Walden. 
 
 ### Languages and Frameworks
-https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+
 ___________
 
 ### 🪴 About Me
@@ -45,6 +45,8 @@ I am pretty fresh from University, so my skill set is pretty general - though I 
 7. Database design and SQL
 8. Django web development
 9. HTML and CSS (with Sass)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
 ____________
 
 ### 🌱 I'm currently learning:
