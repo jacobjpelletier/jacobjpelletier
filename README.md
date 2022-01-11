@@ -63,9 +63,6 @@ ___________
 🌳 I enjoy **nature**. This generally manifests as growing a lot of indoor plants and running outside. 
 ____________
 
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjpelletier)](https://github.com/jacobjpelletier/github-readme-stats)
-
-
 ### 🔭 My CS Interests
 **Web is my passion.**   
 
