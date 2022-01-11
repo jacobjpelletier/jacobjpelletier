@@ -12,9 +12,10 @@ ____________
 
 I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UConn](https://uconn.edu/) in 2013 because I hoped to make an earning helping people. After taking MOOCs and building projects for fun, I decided to pursue a Bachelor's in CS degree which I graduated from [Central Connecticut State University](https://www.ccsu.edu/cs/) in 2021. I have found this new pursuit fulfilling because I enjoy the process of honing my craftmanship through the creative process of building a thing. 
 
+***
 <img align="right" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
 
-**Hobbies (in no particular order)**<br>   
+**Hobbies (in no particular order)**   
 
 🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. My favorite genre of food is Mexican and Japanese.   
 
@@ -23,6 +24,7 @@ I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UCon
 🧑🏻‍💻 Since being a nurse, **coding** has been a hobby, and despite the cliche, I will would probably still consider it a hobby.   
 
 🌳 I enjoy **nature**. This generally manifests as growing a lot of indoor plants and running outside. 
+***
 ____________
 
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjpelletier)](https://github.com/jacobjpelletier/github-readme-stats)
