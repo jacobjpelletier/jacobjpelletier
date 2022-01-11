@@ -101,7 +101,6 @@ ____________
 3. CodeCademy
 4. Educative
 ____________
-[!image]()
 
 ### 🏅 Acheivements
 1. Magna cum laude (GPA 3.86)
