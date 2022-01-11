@@ -59,7 +59,7 @@ ___________
 
 🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. My favorite genres of food are Mexican and Japanese.   
 
-🏛 I enjoy reading books on **philosophy**. I enjoy books on transcendentalism, stoicism, meta-modernism, and some anylitical philosophy.    
+🏛 I enjoy reading books on **philosophy**. I enjoy books on transcendentalism, stoicism, meta-modernism, and some analytical philosophy.    
 
 🧑🏻‍💻 Since being a nurse, **coding** has been a hobby, and despite the cliche, I will would probably still consider it a hobby.   
 
