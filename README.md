@@ -57,7 +57,7 @@ ___________
 
 ### 😸 Favorite Activities (in no particular order)
 
-🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. My favorite genre of food is Mexican and Japanese.   
+🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. My favorite genres of food are Mexican and Japanese.   
 
 🏛 I enjoy reading books on **philosophy**. I enjoy books on transcendentalism, stoicism, meta-modernism, and some anylitical philosophy.    
 
