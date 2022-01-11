@@ -83,7 +83,7 @@ I am pretty fresh from University, so my skill set is pretty general - though I 
 8. Django web development
 9. HTML and CSS (with Sass)
 
-![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green)
+<img align="right" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green)"/>
 ____________
 
 ### 🌱 I'm currently learning:
