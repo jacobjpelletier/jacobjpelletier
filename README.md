@@ -85,6 +85,7 @@ I am pretty fresh from University, so my skill set is pretty general - though I 
 7. Database design and SQL
 8. Django web development
 9. HTML and CSS (with Sass)
+
 ____________
 
 ### 🌱 I'm currently learning:
