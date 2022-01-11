@@ -49,9 +49,7 @@ I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UCon
  
 Primarily I have built web apps in Flask, Django, and Node/Express. I enjoy building things in Javascript and hope to become a very strong JS web application and API developer. While University gave me a strong CS foundation, I enjoy web development because I can see the growth in my craftsmanship through the projects I build. I could (and do) spend my all my time learning new things.
 
-🔭 **These days, I like discovering new things to do with Javascript**.
-
-🔨 🩺  💻
+🔭 **These days, I like discovering new things to do with Javascript**
 ___________
 
 <img align="center" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
@@ -84,8 +82,6 @@ I am pretty fresh from University, so my skill set is pretty general - though I 
 7. Database design and SQL
 8. Django web development
 9. HTML and CSS (with Sass)
-
-
 ____________
 
 ### 🌱 I'm currently learning:
@@ -135,6 +131,7 @@ ____________
 8. jacobjpelletier@gmail.com
 9. [my website](https://www.jacobpelletier.com/) (currently under construction)
 10. Visit me on [medium!](https://jacobjpelletier.medium.com/)
+
 
 <!--
 **jacobjpelletier/jacobjpelletier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
