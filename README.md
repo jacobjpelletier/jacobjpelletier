@@ -128,9 +128,9 @@ ____________
 ____________
 
 ### 📫 Contact Me
-8. jacobjpelletier@gmail.com
-9. [my website](https://www.jacobpelletier.com/) (currently under construction)
-10. Visit me on [medium!](https://jacobjpelletier.medium.com/)
+1. jacobjpelletier@gmail.com
+2. [my website](https://www.jacobpelletier.com/) (currently under construction)
+3. Visit me on [medium!](https://jacobjpelletier.medium.com/)
 
 
 <!--
