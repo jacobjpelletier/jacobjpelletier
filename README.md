@@ -1,7 +1,6 @@
 ## 👋 Thanks for visiting my github profile.
 
 > “I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one.” - Henry David Thoreau, Walden. 
-____________
 
 ### 🪴 About Me:
 ____________
