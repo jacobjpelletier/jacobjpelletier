@@ -12,7 +12,7 @@ ____________
 
 I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UConn](https://uconn.edu/) in 2013 because I hoped to make an earning helping people. After taking MOOCs and building projects for fun, I decided to pursue a Bachelor's in CS degree which I graduated from [Central Connecticut State University](https://www.ccsu.edu/cs/) in 2021. I have found this new pursuit fulfilling because I enjoy the process of honing my craftmanship through the creative process of building a thing. 
 
-<img style="margin: auto" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
+<img style="text-align: center" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
 
 **Hobbies (in no particular order)**   
 
