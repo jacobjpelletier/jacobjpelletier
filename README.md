@@ -1,7 +1,7 @@
 ## 👋 Thanks for visiting my github profile. 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jacobjpelletier.visitor-badge)
 
-![video](https://user-images.githubusercontent.com/40835093/149026736-2b866532-af15-4b26-8e75-3513935a47e6.mov)
+![walden1](https://user-images.githubusercontent.com/40835093/149028807-351fd725-08f7-476d-95d3-1d7636439f04.jpg)
 
 > “I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one.” - Henry David Thoreau, Walden. 
 
