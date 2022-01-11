@@ -68,7 +68,7 @@ ____________
 
 ### Abilities and Powers 
 
-I am pretty fresh from University, so my skill set is pretty general - though I am working to become more specialized.   
+I am pretty fresh from University, so my skill set is pretty generalized - though I am working to become more specialized.   
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green"/>   
 
