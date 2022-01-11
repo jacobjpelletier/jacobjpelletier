@@ -3,7 +3,7 @@
 > “I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one.” - Henry David Thoreau, Walden. 
 
 ### Languages and Frameworks
-
+https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 ___________
 
 ### 🪴 About Me
@@ -15,7 +15,7 @@ ___________
 
 <img align="right" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
 
-### Hobbies (in no particular order)
+### 😸 Hobbies (in no particular order)
 
 🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. My favorite genre of food is Mexican and Japanese.   
 
