@@ -45,7 +45,7 @@ ___________
 
 **Origin Story**.   
 
-I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UConn](https://uconn.edu/) in 2013 because I hoped to make an earning helping people. After taking MOOCs and building projects for fun, I decided to pursue a Bachelor's in CS degree which I graduated from in 2021 from [Central Connecticut State University](https://www.ccsu.edu/cs/). I have found this new pursuit fulfilling because I enjoy the process of honing my craftmanship through the creative process of building a thing. 
+I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UConn](https://uconn.edu/) in 2013 because I hoped to make an earning helping people. After taking MOOCs and building projects for fun, I decided to pursue a Bachelor's in CS degree which I graduated from in 2021 from [Central Connecticut State University](https://www.ccsu.edu/cs/). I have found this new pursuit fulfilling because I enjoy the process of honing my craftmanship through the creative process of building a thing. I value humility, good humor, and curiosity. 
 
 🔨 🩺  💻
 ___________
