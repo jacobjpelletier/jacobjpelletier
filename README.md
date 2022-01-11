@@ -22,6 +22,9 @@ I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UCon
 🌳 I enjoy **nature**. This generally manifests as growing a lot of indoor plants and running outside. 
 ____________
 
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjpelletier)](https://github.com/jacobjpelletier/github-readme-stats)
+
+
 ### 🔭 My CS Interests
 **Web is my passion.**   
 
@@ -64,6 +67,12 @@ ____________
 3. Udacity's Introduction to Programming NanoDegree
 4. Udacity's Intermediate Javascript NanoDegree
 ____________
+
+### 🤔 Trivia
+1. I speak French 🇨🇦
+2. I like mac 🍎 
+3. I enjoy yoga and mediation 🧘🏻
+4. I prefer Whiskey and Tequila 🥃 over wine🍷 over beer 🍺
 
 ### 📫 Contact Me
 1. jacobjpelletier@gmail.com
