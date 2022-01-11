@@ -1,5 +1,4 @@
 ## 👋 Thanks for visiting my github profile. 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jacobjpelletier.visitor-badge)
 
 ![walden1](https://user-images.githubusercontent.com/40835093/149028807-351fd725-08f7-476d-95d3-1d7636439f04.jpg)
 
@@ -7,6 +6,8 @@
 ___________ 
 
 ### Languages and Frameworks
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jacobjpelletier.visitor-badge)
+
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
