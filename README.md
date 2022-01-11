@@ -50,10 +50,6 @@ I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UCon
 🔨 🩺  💻
 ___________
 
-<img align="center" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
-
-
-
 ### 😸 Hobbies (in no particular order)
 
 🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. My favorite genre of food is Mexican and Japanese.   
@@ -63,6 +59,8 @@ ___________
 🧑🏻‍💻 Since being a nurse, **coding** has been a hobby, and despite the cliche, I will would probably still consider it a hobby.   
 
 🌳 I enjoy **nature**. This generally manifests as growing a lot of indoor plants and running outside. 
+
+<img align="center" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
 ____________
 
 ### 🔭 My CS Interests
