@@ -72,7 +72,8 @@ ____________
 Primarily I have built web apps in Flask, Django, and Node/Express. I enjoy building things in Javascript and hope to become a very strong JS web application and API developer. While University gave me a strong CS foundation, I enjoy web development because I can see the growth in my craftsmanship through the projects I build. I could (and do) spend my all my time learning new things.
 
 **My abilities and powers**. 
-I am pretty fresh from University, so my skill set is pretty general - though I am working to become more specialized. 
+I am pretty fresh from University, so my skill set is pretty general - though I am working to become more specialized.   
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green"/>
 1. Data Structures and Algorithms
 2. Basic to Intermediate Python
