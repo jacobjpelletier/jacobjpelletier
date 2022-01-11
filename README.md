@@ -4,6 +4,7 @@
 ![walden1](https://user-images.githubusercontent.com/40835093/149028807-351fd725-08f7-476d-95d3-1d7636439f04.jpg)
 
 > “I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one.” - Henry David Thoreau, Walden. 
+___________ 
 
 ### Languages and Frameworks
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
