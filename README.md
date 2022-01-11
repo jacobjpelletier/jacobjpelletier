@@ -50,7 +50,7 @@ I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UCon
 🔨 🩺  💻
 ___________
 
-<img align="left" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
+<img align="center" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
 
 
 
