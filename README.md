@@ -119,6 +119,8 @@ ____________
 4. I like craft Whiskey 🥃 
 5.❗️ MY HOT TAKE: 🐈  > 🐕
 
+____________
+
 ### 📫 Contact Me
 8. jacobjpelletier@gmail.com
 9. [my website](https://www.jacobpelletier.com/) (currently under construction)
