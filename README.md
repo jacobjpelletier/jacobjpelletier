@@ -110,6 +110,7 @@ ____________
 2. LeetCode
 3. CodeCademy
 4. Educative 
+5. Interview Cake
 
 **Some of my favorite creators on git**
 
@@ -144,8 +145,6 @@ ____________
 3. [my LinkedIn](https://www.linkedin.com/in/jacob-pelletier/)
 4. Visit me on [medium!](https://jacobjpelletier.medium.com/)
 
-
-![repos](https://user-images.githubusercontent.com/40835093/149030038-38fa2756-2d6c-4a9f-8d4d-09c2ca10d28d.jpg)
 
 
 
