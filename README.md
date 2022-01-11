@@ -116,12 +116,13 @@ ____________
 1. I speak French 🇨🇦
 2. I like mac 🍎 
 3. I enjoy yoga and mediation 🧘🏻
-4. I prefer Whiskey and Tequila 🥃 over wine🍷 over beer 🍺
+4. I like craft Whiskey 🥃 
+5.❗️ MY HOT TAKE: 🐈  > 🐕
 
 ### 📫 Contact Me
-1. jacobjpelletier@gmail.com
-2. [my website](https://www.jacobpelletier.com/) (currently under construction)
-3. Visit me on [medium!](https://jacobjpelletier.medium.com/)
+8. jacobjpelletier@gmail.com
+9. [my website](https://www.jacobpelletier.com/) (currently under construction)
+10. Visit me on [medium!](https://jacobjpelletier.medium.com/)
 
 <!--
 **jacobjpelletier/jacobjpelletier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
