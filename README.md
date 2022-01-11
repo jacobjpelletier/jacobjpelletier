@@ -1,4 +1,8 @@
-## Welcome to my github profile 👋
+## 👋 Welcome to my github profile
+______________
+
+### About Me:
+
 
 <!--
 **jacobjpelletier/jacobjpelletier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
