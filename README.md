@@ -116,8 +116,9 @@ ____________
 ### 🏅 Acheivements
 1. Magna cum laude (GPA 3.86)
 2. Dean's list 2020, 2021
-3. Udacity's Introduction to Programming NanoDegree
-4. Udacity's Intermediate Javascript NanoDegree
+3. Upsilon Pi Epsilon International ΥΠΕ
+4. Udacity's Introduction to Programming NanoDegree
+5. Udacity's Intermediate Javascript NanoDegree
 ____________
 
 ### 🤔 Trivia
