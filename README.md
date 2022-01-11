@@ -73,6 +73,7 @@ Primarily I have built web apps in Flask, Django, and Node/Express. I enjoy buil
 
 **My abilities and powers**. 
 I am pretty fresh from University, so my skill set is pretty general - though I am working to become more specialized. 
+<img align="right" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green)"/>
 1. Data Structures and Algorithms
 2. Basic to Intermediate Python
 3. Basic to Intermediate Javascript
@@ -82,8 +83,6 @@ I am pretty fresh from University, so my skill set is pretty general - though I 
 7. Database design and SQL
 8. Django web development
 9. HTML and CSS (with Sass)
-
-<img align="right" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green)"/>
 ____________
 
 ### 🌱 I'm currently learning:
