@@ -84,7 +84,7 @@ I am pretty fresh from University, so my skill set is pretty generalized - thoug
 9. HTML and CSS (with Sass)
 ____________
 
-### 🌱 I'm currently learning:
+### 🌱 I'm currently learning
 1. Node and Express
 2. Angular
 3. React
