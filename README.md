@@ -110,7 +110,11 @@ ____________
 
 1. https://github.com/fireship-io
 2. https://github.com/benawad
-3. https://github.com/udacity 
+3. https://github.com/bradtraversy
+4. https://github.com/iamshaunjp
+5. https://github.com/leonardomso/33-js-concepts
+6. https://github.com/udacity 
+7. https://github.com/dypsilon/frontend-dev-bookmarks
 ____________
 
 ### 🏅 Acheivements
