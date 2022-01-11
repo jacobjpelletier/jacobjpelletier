@@ -5,12 +5,14 @@
 ### 🪴 About Me:
 ____________
 
-**Origin Story.** 
+**Origin Story**.   
+
 I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UConn](https://uconn.edu/) in 2013 because I hoped to make an earning helping people. After taking MOOCs and building projects for fun, I decided to pursue a Bachelor's in CS degree which I graduated from [Central Connecticut State University](https://www.ccsu.edu/cs/) in 2021. I have found this new pursuit fulfilling because I enjoy the process of honing my craftmanship through the creative process of building a thing. 
 
 ![saitama](https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg)
 
-**Hobbies (in no particular order).** 
+**Hobbies (in no particular order)**   
+
 🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. I am much better at cooking fish 🐟 than steak 🥩. My favorite genre of food is Mexican and Japanese. 
 🏛 I enjoy reading books on **philosophy**. I enjoy books on transcendentalism, stoicism, meta-modernism, and some anylitical philosophy most.  
 🧑🏻‍💻 Since being a nurse, **coding** has been a hobby, and despite the cliche, I will would probably still consider it a hobby. 
@@ -18,7 +20,8 @@ I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UCon
 ____________
 
 ### 🔭 My CS Interests
-**Web is my passion.**.  
+**Web is my passion.**.   
+
 Primarily I have built web apps in Flask, Django, and Node/Express. I enjoy building things in Javascript and hope to become a very strong JS web application and API developer. While University gave me a strong CS foundation, I enjoy web development because I can see the growth in my craftsmanship through the projects I build. I could (and do) spend my all my time learning new things.
 
 **My abilities and powers**. 
