@@ -3,8 +3,7 @@
 > “I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one.” - Henry David Thoreau, Walden. 
 
 ### Languages and Frameworks
-<img src="{https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black}"/>
-<img src="{https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white}"/>
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ___________
 
 ### 🪴 About Me
