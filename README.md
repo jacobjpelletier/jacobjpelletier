@@ -122,8 +122,7 @@ ____________
 1. I speak French 🇨🇦
 2. I like mac 🍎 
 3. I enjoy yoga and mediation 🧘🏻
-4. I like craft Whiskey 🥃      
-5. MY HOT TAKE ❗️: 🐈  > 🐕
+4. MY HOT TAKE ❗️: 🐈  > 🐕
 
 ____________
 
