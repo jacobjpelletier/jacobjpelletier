@@ -145,6 +145,9 @@ ____________
 4. Visit me on [medium!](https://jacobjpelletier.medium.com/)
 
 
+![walden](https://user-images.githubusercontent.com/40835093/149029744-48e53fbe-d537-465f-987c-ec7354049540.jpeg)
+
+
 <!--
 **jacobjpelletier/jacobjpelletier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
