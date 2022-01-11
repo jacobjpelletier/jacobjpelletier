@@ -13,9 +13,12 @@ I was raised by a family of carpenters. I got a Bachelor's in Nursing from [UCon
 
 **Hobbies (in no particular order)**   
 
-🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. I am much better at cooking fish 🐟 than steak 🥩. My favorite genre of food is Mexican and Japanese. 
-🏛 I enjoy reading books on **philosophy**. I enjoy books on transcendentalism, stoicism, meta-modernism, and some anylitical philosophy most.  
-🧑🏻‍💻 Since being a nurse, **coding** has been a hobby, and despite the cliche, I will would probably still consider it a hobby. 
+🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. I am much better at cooking fish 🐟 than steak 🥩. My favorite genre of food is Mexican and Japanese.   
+
+🏛 I enjoy reading books on **philosophy**. I enjoy books on transcendentalism, stoicism, meta-modernism, and some anylitical philosophy most.    
+
+🧑🏻‍💻 Since being a nurse, **coding** has been a hobby, and despite the cliche, I will would probably still consider it a hobby.   
+
 🌳 I enjoy **nature**. This generally manifests as growing a lot of indoor plants and running outside. 
 ____________
 
