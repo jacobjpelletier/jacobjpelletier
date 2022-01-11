@@ -129,7 +129,8 @@ ____________
 ### 📫 Contact Me
 1. jacobjpelletier@gmail.com
 2. [my website](https://www.jacobpelletier.com/) (currently under construction)
-3. Visit me on [medium!](https://jacobjpelletier.medium.com/)
+3. [my LinkedIn](https://www.linkedin.com/in/jacob-pelletier/)
+4. Visit me on [medium!](https://jacobjpelletier.medium.com/)
 
 
 <!--
