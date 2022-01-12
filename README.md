@@ -143,6 +143,11 @@ ____________
 5. https://github.com/leonardomso/33-js-concepts
 6. https://github.com/udacity 
 7. https://github.com/dypsilon/frontend-dev-bookmarks
+
+**My Favorite Coding books** 
+
+<img align="center" src="https://user-images.githubusercontent.com/40835093/149051250-a7bd2f95-f111-4c34-a9a6-bc394a89b6d3.png"/>
+
 ____________
 
 ### 🏅 Acheivements
