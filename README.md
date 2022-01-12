@@ -75,10 +75,11 @@ ____________
 
 ### 🦸🏻‍♂️ Abilities and Powers 
 
+**🥜 In A Nutshell**
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green"/>  
+
 I am pretty fresh from University, so my skill set is pretty generalized - though I am working to become more specialized.   
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green"/>   
-
 
 1. Data Structures and Algorithms
 2. Basic to Intermediate Python
@@ -89,9 +90,8 @@ I am pretty fresh from University, so my skill set is pretty generalized - thoug
 7. Database design and SQL
 8. Django web development
 9. HTML and CSS (with Sass)
-____________
 
-### Quick Code Demos (no install needed!):
+**Quick Code Demos (no install needed!):**
 1. 🐍 [Data Analysis With Python](https://rawcdn.githack.com/jacobjpelletier/dataanalysis/e09a7fc1a6e46a0dee772c812562ab8de0f38896/DataAnalysis.html)
    - https://github.com/jacobjpelletier/dataanalysis
 2. 🐍 [Dynamic Django Site](http://jacobjp27.pythonanywhere.com/)
