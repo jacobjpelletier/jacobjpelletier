@@ -91,6 +91,11 @@ I am pretty fresh from University, so my skill set is pretty generalized - thoug
 9. HTML and CSS (with Sass)
 ____________
 
+### Select Code Examples
+1. [Data Analysis](https://rawcdn.githack.com/jacobjpelletier/dataanalysis/e09a7fc1a6e46a0dee772c812562ab8de0f38896/DataAnalysis.html)
+
+____________
+
 ### 🌱 I'm currently learning
 1. Node and Express
 2. Angular
