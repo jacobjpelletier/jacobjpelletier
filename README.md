@@ -92,6 +92,8 @@ I am pretty fresh from University, so my skill set is pretty generalized - thoug
 9. HTML and CSS (with Sass)
 
 **Quick Code Demos (no install needed!):**
+   - ⏰ I know I said they were quick demos, but you may need to give them a minute to load.
+   
 1. 🐍 [Data Analysis With Python](https://rawcdn.githack.com/jacobjpelletier/dataanalysis/e09a7fc1a6e46a0dee772c812562ab8de0f38896/DataAnalysis.html)
    - https://github.com/jacobjpelletier/dataanalysis
 2. 🐍 [Dynamic Django Site](http://jacobjp27.pythonanywhere.com/)
