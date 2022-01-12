@@ -75,7 +75,7 @@ ____________
 
 ### 🦸🏻‍♂️ Abilities and Powers 
 
-**🥜 In A Nutshell**
+**🥥 In A Nutshell**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green"/>  
 
