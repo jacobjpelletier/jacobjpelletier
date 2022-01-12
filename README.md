@@ -103,7 +103,7 @@ I am pretty fresh from University, so my skill set is pretty generalized - thoug
 7. 👢 [Sassy BootStrap](https://htmlpreview.github.io/?https://github.com/jacobjpelletier/cs416hw2/blob/main/index.html)
    - https://github.com/jacobjpelletier/cs416hw2/blob/main/index.html
 
-**Some of my Favorite Projects**
+**Some Of My Favorite Projects**
 1. 📌 Fetch NASA API data project written in functional JS
    - https://github.com/jacobjpelletier/nasadashboard
 2. 📌 Node API that reads and writes from the disk
@@ -113,7 +113,7 @@ I am pretty fresh from University, so my skill set is pretty generalized - thoug
 🚠  Check in again soon, more projects are to come!
 ____________
 
-### 🌱 I'm currently learning
+### 🌱 I'm Currently Learning
 1. Node and Express
 2. Angular
 3. React
@@ -124,7 +124,7 @@ ____________
 8. Docker
 ____________
 
-### 💪 Where I like to train (my coding muscles) 
+### 💪 Where I Like To Train (my coding muscles) 
 
 **MOOCs**   
 
@@ -134,7 +134,7 @@ ____________
 4. Educative 
 5. Interview Cake
 
-**Some of my favorite creators on git**
+**Some Of My Favorite Creators On Git**
 
 1. https://github.com/fireship-io
 2. https://github.com/benawad
