@@ -91,9 +91,28 @@ I am pretty fresh from University, so my skill set is pretty generalized - thoug
 9. HTML and CSS (with Sass)
 ____________
 
-### Select Code Examples
-1. [Data Analysis](https://rawcdn.githack.com/jacobjpelletier/dataanalysis/e09a7fc1a6e46a0dee772c812562ab8de0f38896/DataAnalysis.html)
+### Quick Code Demos (no install needed!):
+1. 🐍 [Data Analysis With Python](https://rawcdn.githack.com/jacobjpelletier/dataanalysis/e09a7fc1a6e46a0dee772c812562ab8de0f38896/DataAnalysis.html)
+   - https://github.com/jacobjpelletier/dataanalysis
+2. 🐍 [Dynamic Django Site](http://jacobjp27.pythonanywhere.com/)
+   - https://github.com/jacobjpelletier/webFinalProj
+3. 🐍 [Simple .py with Front-end](https://htmlpreview.github.io/?https://github.com/jacobjpelletier/moviesite/blob/main/fresh_tomatoes.html)
+   - https://github.com/jacobjpelletier/moviesite
+5. 📌 [OOP JS - Compare Me To Dinos](https://htmlpreview.github.io/?https://github.com/jacobjpelletier/dino/blob/main/Javascript-master/index.html)
+   - https://github.com/jacobjpelletier/dino
+6. 📌 [JS DOM Manipulation - Frogger](https://htmlpreview.github.io/?https://github.com/jacobjpelletier/frogger/blob/master/index.html)
+   - https://github.com/jacobjpelletier/frogger (note that game engine was created by Udacity)
+7. 👢 [Sassy BootStrap](https://htmlpreview.github.io/?https://github.com/jacobjpelletier/cs416hw2/blob/main/index.html)
+   - https://github.com/jacobjpelletier/cs416hw2/blob/main/index.html
 
+**Some of my Favorite Projects**
+1. 📌 Fetch NASA API data project written in functional JS
+   - https://github.com/jacobjpelletier/nasadashboard
+2. 📌 Node API that reads and writes from the disk
+   - https://github.com/jacobjpelletier/image_processing_api
+
+
+🚠  Check in again soon, more projects are to come!
 ____________
 
 ### 🌱 I'm currently learning
