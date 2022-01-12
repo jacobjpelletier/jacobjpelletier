@@ -144,10 +144,6 @@ ____________
 6. https://github.com/udacity 
 7. https://github.com/dypsilon/frontend-dev-bookmarks
 
-**Books About Code?** 
-
-<img align="center" src="https://user-images.githubusercontent.com/40835093/149051533-e0a8db84-c5b2-4c73-8dd3-f5fcbd46701c.png"/>
-
 ____________
 
 ### 🏅 Acheivements
