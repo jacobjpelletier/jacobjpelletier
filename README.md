@@ -88,7 +88,7 @@ I am pretty fresh from University, so my skill set is pretty generalized - thoug
 9. HTML and CSS (with Sass)
 
 **Quick Code Demos (no install needed!):**
-   - html via https://htmlpreview.github.io/
+   - html served with https://htmlpreview.github.io/
    
 1. 🐍 [Data Analysis With Python](https://rawcdn.githack.com/jacobjpelletier/dataanalysis/e09a7fc1a6e46a0dee772c812562ab8de0f38896/DataAnalysis.html)
    - https://github.com/jacobjpelletier/dataanalysis
