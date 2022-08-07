@@ -50,7 +50,7 @@ ___________
 
 I was raised by a family of carpenters. I got a Bachelor's in Nursing from the [University of Connecticut](https://uconn.edu/) in 2013 because I hoped to make an earning helping people. I started learning this computer science stuff for fun, and eventually decided to pursue a Bachelor's in CS degree which I graduated from in 2021 from [Central Connecticut State University](https://www.ccsu.edu/cs/). I have found this new pursuit fulfilling because I enjoy the process of honing my skills through the creative process of building a thing.  
  
-Primarily I have built web apps in Django, but I am currently working more in Node/Express, Angular, and React. I enjoy building things in Javascript and **my interests are in exploring web app and REST API development through the various flavors of JS**. While University gave me a strong CS foundation, I enjoy web development because I can see the growth in my craftsmanship through the projects I build. Regardless of my current pursuits, I value humility, compassion, and curiosity.
+Primarily I have built web apps in Django, but I am currently working more in Node/Express, Angular, and React. I enjoy building things in Javascript and **my interests are in exploring web app and REST/GRAPHQL API development through the various flavors of JS**. While University gave me a strong CS foundation, I enjoy web development because I can see the growth in my craftsmanship through the projects I build. Regardless of my current pursuits, I value humility, compassion, and curiosity.
 
 🔭 **These days, I like discovering new things to do with Javascript.**
 ___________
