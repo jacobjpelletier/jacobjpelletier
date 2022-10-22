@@ -46,7 +46,7 @@ ___________
 
 ### 🪴 About Me   
 
-CEO of Yankeedom.io. A health-tech company transforming how healthcare workers work. 
+#### CEO of Yankeedom.io. A health-tech company transforming how healthcare workers work. 
 
 📖 **Origin Story**.   
 
