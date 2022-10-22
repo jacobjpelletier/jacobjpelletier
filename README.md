@@ -57,7 +57,6 @@ ___________
 
 <img align="center" src="https://user-images.githubusercontent.com/40835093/148970212-a3e4e155-6fc5-4e8c-94d0-f9aa628de65b.jpg"/>
 
-
 ### 😸 Favorite Activities (in no particular order)
 
 🍳 I enjoy **cooking** and experimenting in the kitchen. Particularly I love cooking (and eating) soups from around the world. My favorite genres of food are Mexican and Japanese.   
@@ -67,6 +66,8 @@ ___________
 🧑🏻‍💻 Since being a nurse, **coding** has been a hobby, and despite the cliche, I will would probably still consider it a hobby.   
 
 🌳 I enjoy **nature**. This generally manifests as growing a lot of indoor plants and running outside. 
+
+🩺 I enjoy doing great things with my team at our bootstrapped (socail-entrepeurship) health-tech start-up, Yankeedom.io.
 ____________
 
 ### 🦸🏻‍♂️ Abilities and Powers 
@@ -74,8 +75,6 @@ ____________
 **🥥 In A Nutshell**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobjpelletier&theme=blue-green"/>  
-
-I am pretty fresh from University, so my skill set is pretty generalized - though I am working to become more specialized.   
 
 1. Data Structures and Algorithms
 2. Basic to Intermediate Python
@@ -164,9 +163,8 @@ ____________
 
 ### 📫 Contact Me
 1. jacobjpelletier@gmail.com
-2. [my website](https://www.jacobpelletier.com/) (currently under construction)
-3. [my LinkedIn](https://www.linkedin.com/in/jacob-pelletier/)
-4. Visit me on [medium!](https://jacobjpelletier.medium.com/)
+2. [my LinkedIn](https://www.linkedin.com/in/jacob-pelletier/)
+3. Visit me on [medium!](https://jacobjpelletier.medium.com/)
 
 
 
