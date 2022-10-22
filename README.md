@@ -44,9 +44,7 @@
 ![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ___________
 
-### 🪴 About Me   
-
-#### CEO of Yankeedom.io. A health-tech company transforming how healthcare workers work. 
+### 🪴 About Me    
 
 📖 **Origin Story**.   
 
