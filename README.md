@@ -46,6 +46,8 @@ ___________
 
 ### 🪴 About Me   
 
+CEO of Yankeedom.io. A health-tech company transforming how healthcare workers work. 
+
 📖 **Origin Story**.   
 
 I was raised by a family of carpenters. I got a Bachelor's in Nursing from the [University of Connecticut](https://uconn.edu/) in 2013 because I hoped to make an earning helping people. I started learning this computer science stuff for fun, and eventually decided to pursue a Bachelor's in CS degree which I graduated from in 2021 from [Central Connecticut State University](https://www.ccsu.edu/cs/). I have found this new pursuit fulfilling because I enjoy the process of honing my skills through the creative process of building a thing.  
