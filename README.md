@@ -146,7 +146,7 @@ ____________
 ____________
 
 ### 🏅 Acheivements
-1. GPA 3.86
+1. GPA 3.89
 2. Dean's list 2020, 2021
 3. Upsilon Pi Epsilon International ΥΠΕ
 4. Udacity's Introduction to Programming NanoDegree
