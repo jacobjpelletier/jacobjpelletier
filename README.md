@@ -78,13 +78,17 @@ ____________
 
 1. Data Structures and Algorithms
 2. Basic to Intermediate Python
-3. Basic to Intermediate Javascript
-4. Basic Java
-5. Basic C
-6. Git
-7. Database design and SQL
-8. Django web development
-9. HTML and CSS (with Sass)
+3. Intermediate Javascript
+4. Intermediate Typescript
+5. React
+6. Next.js
+7. MongoDB
+8. Basic Java
+9. Basic C
+10. Git
+11. Database design and SQL
+12. Django web development
+13. HTML and CSS (with Sass)
 
 **Preview these projects in the browser!:**
    - html served with https://htmlpreview.github.io/
@@ -113,14 +117,12 @@ ____________
 ____________
 
 ### 🌱 I'm Currently Learning
-1. Node and Express
-2. Angular
-3. React
+1. React
+2. Next.js
+3. Nest.js
 4. Typescript
-5. MongoDB
-6. Postgres
-7. Kubernetes
-8. Docker
+5. JAM Stack
+6. RESTful API
 ____________
 
 ### 💪 Where I Like To Train (my coding muscles) 
